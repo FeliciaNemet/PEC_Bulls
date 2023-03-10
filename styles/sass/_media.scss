@@ -17,11 +17,29 @@
     //  60% {
     //  transform: translateY(-15px);
     //  }
+    .imgBox img{
+      max-width: 200px;
+    }
   
-h2 {
-  font-size: 20px;
-  font-family: $logoFont;
-  letter-spacing: 2.5px;
-}
-
+    h2 {
+    font-size: 20px;
+    font-family: $logoFont;
+    letter-spacing: 2.5px;
+  }
+  h3 {
+    font-size: 15px;
+    font-family: $logoFont;
+    letter-spacing: 2.5px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    font-family: $logoFont;
+    letter-spacing: 2.5px;
+  } 
+  h2 {
+    font-size: 20px;
+    font-family: $logoFont;
+    letter-spacing: 2.5px;
+  }
 }
