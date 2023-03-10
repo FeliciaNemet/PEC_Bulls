@@ -39,7 +39,7 @@ h1 {
 
 
 h2 {
-  font-size: 40px;
+  font-size: 32px;
   font-family: $logoFont;
   letter-spacing: 2.5px;
 }
@@ -52,7 +52,11 @@ h4 {
 
 a {
     text-decoration: none;
-    color: #000
+    color: #000;
+
+}
+.i {
+  font-size: 30px;
 }
 .textCenter {
     text-align: center;
@@ -60,6 +64,7 @@ a {
 
 p {
   font-family: $logoFont;
+  padding-bottom: 25px;
 }
 
 img {

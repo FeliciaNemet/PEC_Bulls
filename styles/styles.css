@@ -286,12 +286,17 @@ a {
   color: #000;
 }
 
+.i {
+  font-size: 30px;
+}
+
 .textCenter {
   text-align: center;
 }
 
 p {
   font-family: "Tilt Prism", cursive;
+  padding-bottom: 25px;
 }
 
 img {

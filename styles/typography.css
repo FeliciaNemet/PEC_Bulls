@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 32px;
   font-family: "Tilt Prism", cursive;
   letter-spacing: 2.5px;
 }
@@ -49,12 +49,17 @@ a {
   color: #000;
 }
 
+.i {
+  font-size: 30px;
+}
+
 .textCenter {
   text-align: center;
 }
 
 p {
   font-family: "Tilt Prism", cursive;
+  padding-bottom: 25px;
 }
 
 img {
