@@ -240,13 +240,7 @@ html {
   color: black;
 }
 
-body {
-  margin: 0;
-  height: 100vh;
-  cursor: url("../assets/dragon.png"), text;
-  overflow-x: hidden;
-  background-color: white;
-}
+
 
 .wrapper {
   max-width: 2600px;
