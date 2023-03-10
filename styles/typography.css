@@ -1,6 +1,6 @@
 html {
   font-size: 125%;
-  color: #9c89ff;
+  color: black;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
   height: 100vh;
   cursor: url("../assets/dragon.png"), text;
   overflow-x: hidden;
-  background-color: #c4feff;
+  background-color: white;
 }
 
 span {
@@ -16,7 +16,7 @@ span {
 }
 
 .imgBox {
-  border: 10px solid #99cced;
+  border: 10px solid red;
 }
 
 figcaption {
@@ -40,7 +40,7 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #9c89ff;
+  color: #000;
 }
 
 .textCenter {
